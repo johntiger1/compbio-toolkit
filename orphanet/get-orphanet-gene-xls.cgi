@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 """
+Interesting: look at later
 CGI script which downloads the latest Orphanet disease-gene annotations
 and outputs them in an Excel-compatible TSV format.
 """
